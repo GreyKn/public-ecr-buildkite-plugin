@@ -1,0 +1,7 @@
+---
+name: Public ECR
+description: Login to Public ECR in your build steps
+author: https://github.com/greykn
+requirements:
+  - bash
+  - aws
